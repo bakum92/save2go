@@ -1,0 +1,13 @@
+#pageFiles { border:0 dotted #aaaaaa; border-top-width:1px; border-bottom-width:1px; margin:20px 0; }
+#pageFiles .item { padding-left:36px; margin:15px 0; }
+#pageFiles .vid { background:url(des/type/vid.gif) no-repeat left 3px; }
+#pageFiles .swf { background:url(des/type/swf.gif) no-repeat left 3px; }
+#pageFiles .aud { background:url(des/type/aud.gif) no-repeat left 4px; }
+#pageFiles b { display:block; font-size:15px; }
+#pageFiles .info { overflow:hidden; }
+#pageFiles .info div, #pageFiles .info a { float:left; margin-right:15px; }
+#pageFiles .info a { white-space:nowrap; }
+#pageFiles .info a i { padding-right:14px; border-bottom:solid 1px #ffffff; position:relative; }
+#pageFiles .info a.tv { background:url(des/icon/tv.gif) no-repeat left 3px; }
+#pageFiles .info a.qr { background:url(des/icon/qr.gif) no-repeat left 3px; }
+#pageFiles .info a.mp { background:url(des/icon/mp.gif) no-repeat left 3px; }

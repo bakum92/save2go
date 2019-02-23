@@ -1,0 +1,23 @@
+@import url('base.css');
+
+body { margin:25px 10px 5px 10px; padding:0; }
+
+#pageCover { max-width:800px; margin:0 auto; text-align:center; min-width:480px; }
+#pageTop { text-align:left; overflow:hidden; margin-bottom:15px; }
+#pageLogo { margin:0 0 5px 10px; color:#777777; font-size:15px; }
+#pageLogo img { width:218px; height:20px; vertical-align:bottom; margin-right:2%; }
+#pageForm { overflow:hidden; background:#a1bfcf url(des/grad.gif) bottom repeat-x; color:#333333; padding:10px 10px 3px 10px; -webkit-border-radius:6px; -moz-border-radius:6px; }
+#pageForm form { overflow:hidden; padding-left:140px; }
+#pageForm form div { float:left; width:100%; margin-left:-140px; }
+*+html #pageForm form div { position:relative; left:140px; }
+#pageForm form div input.str { width:100%; padding-left:5px; }
+#pageForm form input.btn { float:right; width:120px; cursor:pointer; }
+#pageForm form input.btn, x:-moz-any-link { position:relative; top:-1px; }
+*+html #pageForm form input.btn { height:23px; top:0; }
+#pageForm i { font-style:normal; }
+#pageBody { text-align:left; overflow:hidden; border-top:solid 2px #ccdfe8; margin-top:10px; }
+#pageContent { margin:0 240px 0 10px; }
+#pageBookmarklet { float:right; background:#edfbf4; padding:10px 10px 0 10px; width:200px; margin:18px 0 0 20px; -webkit-border-radius:6px; -moz-border-radius:6px; }
+#pageBookmarklet a { display:block; text-align:center; font-weight:bold; margin-bottom:15px; }
+#pageBottom { margin-top:20px; border-top:solid 1px #aaaaaa; padding:10px; text-align:left; font-size:11px; }
+#pageCounter { float:right; margin-left:20px; }

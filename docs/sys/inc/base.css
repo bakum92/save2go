@@ -1,0 +1,18 @@
+body, input { font-family:tahoma; font-size:13px; color:#555555; }
+form { margin:0; }
+ul, ol { padding:0; margin:0 0 15px 20px; padding-left:expression(runtimeStyle.paddingLeft=5); }
+ul { list-style-type:disc; }
+p, li { text-align:justify; }
+p { padding:0; margin:0 0 15px 0; }
+img { border:0; }
+h1, h2 { color:#f1ac00; font-family:arial; font-size:20px; text-transform:uppercase; font-weight:normal; padding:0; margin:20px 0 15px 0; }
+h2 { font-size:15px; margin:20px 0 10px 0; }
+hr { border:0 dotted #aaaaaa; border-bottom-width:1px; height:1px; background:transparent; }
+
+a { color:#336699; }
+a:visited { color:#6699cc; }
+a:hover { color:#cc3333; }
+a[href="#"], a[href="#"]:visited, a[href="#"]:hover { color:#336699; text-decoration:none; border-bottom:dashed 1px #336699; }
+a[href="#"]:hover { color:#cc3333; border-bottom-color:#cc3333; }
+
+#alzLayer { background:#ffffff; border:solid 1px black; padding:10px;}
